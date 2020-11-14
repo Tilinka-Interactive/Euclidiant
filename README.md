@@ -1,1 +1,1 @@
-# Euclidian
+# Euclidiant
