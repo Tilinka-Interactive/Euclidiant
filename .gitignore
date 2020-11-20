@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Android_Multi/Uninstall_Euclidiant-armv7-es2.bat
+Android_Multi/Euclidiant-armv7-es2.apk
+Android_Multi/Install_Euclidiant-armv7-es2.bat
